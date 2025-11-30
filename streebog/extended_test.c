@@ -31,7 +31,7 @@ int main() {
     test_string("Короткая строка", "abc", 24);
     
     // Тест с длинной строкой
-    test_string("Длинная строка", "Hello, Stribog! This is a test message.", 312);
+    test_string("Длинная строка", "Hello, Stribog! This is a kafedra 304!", 312);
     
     return 0;
 }
